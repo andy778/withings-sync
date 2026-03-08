@@ -1,4 +1,4 @@
-FROM python:3.12-alpine
+FROM python:3.13.12-alpine3.23
 
 ARG PROJECT="withings-sync"
 ARG PACKAGE="withings_sync"
